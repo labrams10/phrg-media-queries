@@ -88,4 +88,4 @@ Let your content determine where break points should fall. Use Developer Tools a
 - [MDN - CSS - Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [CSS Tricks - Media Queries](https://css-tricks.com/css-media-queries/)
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/media-queries' title='Media Queries'>Media Queries</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG CSS Media Queries</p>
