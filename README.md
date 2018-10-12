@@ -88,4 +88,8 @@ Let your content determine where break points should fall. Use Developer Tools a
 - [MDN - CSS - Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 - [CSS Tricks - Media Queries](https://css-tricks.com/css-media-queries/)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-media-queries/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-media-queries/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG CSS Media Queries</p>
